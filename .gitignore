@@ -1,2 +1,4 @@
 *.so
 *.egg-info
+gpu.cpp
+__pycache__
